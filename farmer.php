@@ -187,7 +187,7 @@ $user = implode(',', $array_u);
 			<th>Village</th>-->
 			<th style="width:100px;">File</th>
 			<th style="width:100px;">Cr. By</th>
-			<th style="width:50px;">Action</th>
+			<th style="width:80px;">Action</th>
 			</tr>
 			</thead>
 			<tbody>
@@ -264,10 +264,6 @@ $user = implode(',', $array_u);
 				
 				<td style="text-align:left;">
 					<?=ucwords(strtolower($allf['fname']))?>
-					&nbsp;
-<?php if($_SESSION['uId']==1 OR $_SESSION['uId']==14 OR $_SESSION['uId']==134){?>
-<span onClick="OpenDelete(<?php echo $allf['fid'];?>)" style="text-decoration:underline;color:#158AFF;cursor:pointer;">..</span>
-<?php } ?>
 				</td>
 				<td>
 					<?=$allf['contact_1']?>
@@ -313,6 +309,11 @@ $user = implode(',', $array_u);
 				
 				<td>
 					<button id="ebtn<?=$allf['fid']?>" class="frmbtn btn btn-primary btn-sm" onclick="editd('<?=$allf['fid']?>')">Edit</button>
+				&nbsp;
+				<?php if($_SESSION['uId']==14 OR $_SESSION['uId']==16){?>
+                 <span onClick="OpenDelete(<?php echo $allf['fid'];?>)" style="text-decoration:underline;color:#158AFF;cursor:pointer;">Del</span>
+               <?php } ?>	
+					
 				</td>
 				
 			</tr>

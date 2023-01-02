@@ -73,7 +73,7 @@ echo "\tV_Sown tranpl. Acrage\tV_GPS Acrage\tV_Diff Acarge\tV_PLD Acrage\tV_Diff
 
 echo "\tFlowering start date female\tFlowering start date male\tCrossing start date\tCrossing end date\tPlant population\tStanding Acrage\tPLD Acrage\tFinal standing (Gps Measure)\tOff type female\tOff type male\tDisease Obs. female\tDisease Obs. male\tMale removal date\tNo. of seed/Fruit\tNo. of fruit/plant\tTotal no. of plants\t100 seed weight/gm\tEstimated yield/Kg\tRemark\tExcellent\tGood\tAverage\tPoor\tUpdateOn";
 
-echo "\tPlant population\tStanding Acrage\tPld Ac\Final Gps Measure\tOff type female\tOff type male\tDisease Obs. female\tDisease Obs. male\tNo. of seed/Fruit\tNo. of fruit/plant\tTotal no. of plants\t100 seed weight/gm\tEstimated yield/Kg\tTotal off type female\tTotal off type male\tRemark\tExcellent\tGood\tAverage\tPoor\tUpdateOn";
+echo "\tPlant population\tStanding Acrage\tPld Ac\tFinal Gps Measure\tOff type female\tOff type male\tDisease Obs. female\tDisease Obs. male\tNo. of seed/Fruit\tNo. of fruit/plant\tTotal no. of plants\t100 seed weight/gm\tEstimated yield/Kg\tTotal off type female\tTotal off type male\tRemark\tExcellent\tGood\tAverage\tPoor\tUpdateOn";
 
 echo "\tPlant population female\tHarvesting start date\tHarvesting end date\tHarvesting acrage female\tFinal yield/kg\tRemark";
 

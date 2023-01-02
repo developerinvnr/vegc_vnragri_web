@@ -9346,3 +9346,862 @@
 [29-Oct-2022 11:19:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
 [29-Oct-2022 11:19:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
 [29-Oct-2022 11:19:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[01-Nov-2022 05:10:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[01-Nov-2022 05:10:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[01-Nov-2022 05:10:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[01-Nov-2022 05:34:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[01-Nov-2022 05:34:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[01-Nov-2022 05:34:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[01-Nov-2022 05:52:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[01-Nov-2022 05:52:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[01-Nov-2022 05:52:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 121
+[01-Nov-2022 05:52:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 139
+[01-Nov-2022 05:52:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 152
+[01-Nov-2022 05:52:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 165
+[01-Nov-2022 05:52:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 178
+[01-Nov-2022 11:47:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[01-Nov-2022 11:47:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[01-Nov-2022 11:47:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 121
+[01-Nov-2022 11:47:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 139
+[01-Nov-2022 11:47:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 152
+[01-Nov-2022 11:47:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 165
+[01-Nov-2022 11:47:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 178
+[02-Nov-2022 08:27:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 253
+[02-Nov-2022 08:27:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 562
+[02-Nov-2022 08:27:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 605
+[02-Nov-2022 08:27:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 663
+[02-Nov-2022 08:27:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 722
+[02-Nov-2022 08:27:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 826
+[02-Nov-2022 08:27:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 848
+[02-Nov-2022 08:27:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 882
+[02-Nov-2022 08:27:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 919
+[02-Nov-2022 08:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 253
+[02-Nov-2022 08:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 562
+[02-Nov-2022 08:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 605
+[02-Nov-2022 08:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 663
+[02-Nov-2022 08:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 722
+[02-Nov-2022 08:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 826
+[02-Nov-2022 08:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 848
+[02-Nov-2022 08:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 882
+[02-Nov-2022 08:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 919
+[02-Nov-2022 08:39:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[02-Nov-2022 08:39:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[03-Nov-2022 07:14:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[03-Nov-2022 07:14:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[03-Nov-2022 07:14:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[03-Nov-2022 07:15:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 253
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 562
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 605
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 663
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 722
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 826
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 848
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 882
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 919
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 826
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 848
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 882
+[03-Nov-2022 08:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 919
+[03-Nov-2022 08:02:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[03-Nov-2022 08:02:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[03-Nov-2022 08:04:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[03-Nov-2022 08:04:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 253
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 562
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 605
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 663
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 722
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 826
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 848
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 882
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 919
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 826
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 848
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 882
+[03-Nov-2022 09:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 919
+[03-Nov-2022 09:07:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[03-Nov-2022 09:07:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[03-Nov-2022 09:07:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 99
+[03-Nov-2022 09:07:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 344
+[03-Nov-2022 09:07:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 382
+[03-Nov-2022 09:07:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 400
+[03-Nov-2022 09:07:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 467
+[03-Nov-2022 09:08:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[03-Nov-2022 09:22:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[04-Nov-2022 06:00:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[04-Nov-2022 06:00:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[04-Nov-2022 06:00:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[05-Nov-2022 06:14:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[05-Nov-2022 06:14:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[05-Nov-2022 06:14:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[05-Nov-2022 06:14:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[05-Nov-2022 06:14:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[05-Nov-2022 06:14:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[05-Nov-2022 06:14:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[05-Nov-2022 06:14:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[05-Nov-2022 06:14:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[05-Nov-2022 06:16:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[05-Nov-2022 06:16:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[05-Nov-2022 06:16:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[05-Nov-2022 06:57:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[05-Nov-2022 06:59:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[05-Nov-2022 09:10:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[06-Nov-2022 08:49:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[06-Nov-2022 08:49:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[06-Nov-2022 08:49:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[06-Nov-2022 08:49:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[06-Nov-2022 08:49:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[06-Nov-2022 08:49:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[06-Nov-2022 08:49:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[07-Nov-2022 05:53:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[07-Nov-2022 05:53:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[07-Nov-2022 05:53:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[07-Nov-2022 08:43:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[07-Nov-2022 08:43:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[07-Nov-2022 08:43:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[07-Nov-2022 08:43:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[07-Nov-2022 08:43:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[07-Nov-2022 08:43:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[07-Nov-2022 08:43:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[07-Nov-2022 09:06:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 253
+[07-Nov-2022 09:06:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 562
+[07-Nov-2022 09:06:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 605
+[07-Nov-2022 09:06:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 663
+[07-Nov-2022 09:06:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 722
+[10-Nov-2022 04:10:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Nov-2022 10:51:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[10-Nov-2022 10:51:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[10-Nov-2022 10:51:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 121
+[10-Nov-2022 10:51:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 139
+[10-Nov-2022 10:51:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 152
+[10-Nov-2022 10:51:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 165
+[10-Nov-2022 10:51:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/farmerreport.php on line 178
+[12-Nov-2022 03:48:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[12-Nov-2022 05:50:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[12-Nov-2022 05:50:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[12-Nov-2022 05:50:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[12-Nov-2022 05:52:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[12-Nov-2022 05:52:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[12-Nov-2022 05:52:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[12-Nov-2022 06:28:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[12-Nov-2022 06:28:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[12-Nov-2022 07:07:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[12-Nov-2022 07:07:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[12-Nov-2022 07:07:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[12-Nov-2022 07:07:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[12-Nov-2022 07:07:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[12-Nov-2022 07:07:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[12-Nov-2022 07:07:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[12-Nov-2022 08:33:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 253
+[12-Nov-2022 08:33:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 562
+[12-Nov-2022 08:33:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 605
+[12-Nov-2022 08:33:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 663
+[12-Nov-2022 08:33:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 722
+[12-Nov-2022 08:33:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 826
+[12-Nov-2022 08:33:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 848
+[12-Nov-2022 08:33:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 882
+[12-Nov-2022 08:33:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 919
+[14-Nov-2022 09:02:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[14-Nov-2022 09:02:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[14-Nov-2022 09:02:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[14-Nov-2022 10:09:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[14-Nov-2022 10:09:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[14-Nov-2022 10:09:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[14-Nov-2022 10:09:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[14-Nov-2022 10:09:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[14-Nov-2022 10:09:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[14-Nov-2022 10:09:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[14-Nov-2022 10:09:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[14-Nov-2022 10:09:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[14-Nov-2022 10:14:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 407
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 103
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 114
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 126
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 182
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 220
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 222
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 317
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 357
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 365
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 395
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 399
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 698
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 407
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 103
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 114
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 124
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 180
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 218
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 220
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 315
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 351
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 359
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 389
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 393
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 407
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 103
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 114
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 126
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 182
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 220
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 222
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 317
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 357
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 365
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 395
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 399
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 698
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 407
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 103
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 114
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 126
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 182
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 220
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 222
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 317
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 357
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 365
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 395
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 399
+[14-Nov-2022 10:17:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 698
+[14-Nov-2022 11:50:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[14-Nov-2022 11:50:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[14-Nov-2022 11:50:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[14-Nov-2022 11:50:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[14-Nov-2022 11:50:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[14-Nov-2022 11:50:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[14-Nov-2022 11:50:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[14-Nov-2022 11:50:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[14-Nov-2022 11:50:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[14-Nov-2022 11:53:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[15-Nov-2022 06:10:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[15-Nov-2022 06:18:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[16-Nov-2022 04:36:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[16-Nov-2022 04:36:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[16-Nov-2022 04:36:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[16-Nov-2022 04:36:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[16-Nov-2022 04:36:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[16-Nov-2022 04:36:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[16-Nov-2022 04:36:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[16-Nov-2022 05:56:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[16-Nov-2022 05:56:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[16-Nov-2022 05:56:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[16-Nov-2022 11:23:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[16-Nov-2022 11:24:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Nov-2022 06:09:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[18-Nov-2022 06:09:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[18-Nov-2022 06:09:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[18-Nov-2022 06:09:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[18-Nov-2022 06:09:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[18-Nov-2022 06:09:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[18-Nov-2022 06:09:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[18-Nov-2022 06:09:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[18-Nov-2022 06:09:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 407
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 96
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 108
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 120
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 132
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 186
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 188
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 326
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 350
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 376
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 402
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 407
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 96
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 108
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 120
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 132
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 186
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 188
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 326
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 350
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 376
+[18-Nov-2022 06:12:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/visitedreport.php on line 402
+[19-Nov-2022 05:59:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[19-Nov-2022 05:59:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[19-Nov-2022 05:59:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[19-Nov-2022 05:59:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[19-Nov-2022 05:59:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[19-Nov-2022 05:59:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[19-Nov-2022 05:59:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[19-Nov-2022 05:59:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[19-Nov-2022 05:59:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 407
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 103
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 114
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 124
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 180
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 218
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 220
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 315
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 351
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 359
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 389
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 393
+[20-Nov-2022 04:27:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[20-Nov-2022 11:08:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[20-Nov-2022 11:08:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[20-Nov-2022 11:08:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 498
+[20-Nov-2022 11:08:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 524
+[20-Nov-2022 11:08:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 550
+[20-Nov-2022 11:08:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/Svisitedreport.php on line 576
+[27-Nov-2022 06:47:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[27-Nov-2022 06:47:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[27-Nov-2022 06:47:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[28-Nov-2022 06:40:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[28-Nov-2022 06:40:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[28-Nov-2022 06:40:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[28-Nov-2022 06:40:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[28-Nov-2022 06:40:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[28-Nov-2022 06:40:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[28-Nov-2022 06:40:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[28-Nov-2022 06:40:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[28-Nov-2022 06:40:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[30-Nov-2022 06:43:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[30-Nov-2022 06:43:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[30-Nov-2022 06:43:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[30-Nov-2022 06:43:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[30-Nov-2022 06:43:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[30-Nov-2022 06:43:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[30-Nov-2022 06:43:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[30-Nov-2022 06:43:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[30-Nov-2022 06:43:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[30-Nov-2022 11:46:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[30-Nov-2022 11:46:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[30-Nov-2022 11:47:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 344
+[30-Nov-2022 11:49:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 329
+[01-Dec-2022 05:54:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[01-Dec-2022 07:37:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 329
+[01-Dec-2022 07:39:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 329
+[01-Dec-2022 07:39:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 329
+[01-Dec-2022 08:13:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[01-Dec-2022 08:15:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[01-Dec-2022 10:27:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[01-Dec-2022 10:27:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[01-Dec-2022 10:28:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[01-Dec-2022 10:28:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[01-Dec-2022 10:29:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[01-Dec-2022 11:00:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[01-Dec-2022 11:00:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[01-Dec-2022 11:00:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[01-Dec-2022 11:00:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[01-Dec-2022 11:00:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[01-Dec-2022 11:00:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[01-Dec-2022 11:00:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[01-Dec-2022 11:00:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[01-Dec-2022 11:00:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[01-Dec-2022 14:07:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[01-Dec-2022 14:07:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[01-Dec-2022 14:07:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[02-Dec-2022 10:20:01 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/mastersAjaxx.php on line 187
+[02-Dec-2022 10:20:12 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/mastersAjaxx.php on line 187
+[02-Dec-2022 05:37:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[02-Dec-2022 05:37:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[02-Dec-2022 05:37:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[02-Dec-2022 06:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 253
+[02-Dec-2022 06:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 562
+[02-Dec-2022 06:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 605
+[02-Dec-2022 06:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 663
+[02-Dec-2022 06:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 722
+[02-Dec-2022 06:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 826
+[02-Dec-2022 06:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 848
+[02-Dec-2022 06:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 882
+[02-Dec-2022 06:23:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 919
+[02-Dec-2022 06:25:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 253
+[02-Dec-2022 06:25:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 562
+[02-Dec-2022 06:25:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 605
+[02-Dec-2022 06:25:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 663
+[02-Dec-2022 06:25:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/editFarmer.php on line 722
+[02-Dec-2022 06:25:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[02-Dec-2022 06:25:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[02-Dec-2022 06:25:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrlotreport.php on line 540
+[02-Dec-2022 06:25:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrlotreport.php on line 566
+[02-Dec-2022 06:25:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrlotreport.php on line 592
+[02-Dec-2022 06:25:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrlotreport.php on line 618
+[02-Dec-2022 06:25:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrlotreport.php on line 662
+[02-Dec-2022 07:03:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[02-Dec-2022 07:09:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[02-Dec-2022 09:00:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[02-Dec-2022 09:07:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[02-Dec-2022 09:07:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[02-Dec-2022 09:07:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[02-Dec-2022 09:07:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[02-Dec-2022 09:07:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[02-Dec-2022 09:07:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[02-Dec-2022 09:07:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[02-Dec-2022 09:07:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[02-Dec-2022 09:07:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[02-Dec-2022 13:19:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[02-Dec-2022 13:19:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[02-Dec-2022 13:19:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[02-Dec-2022 13:19:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[02-Dec-2022 13:19:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[02-Dec-2022 13:19:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[03-Dec-2022 03:58:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[03-Dec-2022 03:58:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[03-Dec-2022 03:58:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 95
+[03-Dec-2022 03:58:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 329
+[03-Dec-2022 03:58:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 357
+[03-Dec-2022 03:58:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 375
+[03-Dec-2022 05:36:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[03-Dec-2022 05:36:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[03-Dec-2022 05:36:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[03-Dec-2022 08:44:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[03-Dec-2022 08:47:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[03-Dec-2022 08:49:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[03-Dec-2022 08:49:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[03-Dec-2022 08:49:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[04-Dec-2022 03:16:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[04-Dec-2022 06:12:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[04-Dec-2022 06:12:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[04-Dec-2022 06:12:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 95
+[04-Dec-2022 06:12:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 329
+[04-Dec-2022 06:12:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 357
+[04-Dec-2022 06:12:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 375
+[04-Dec-2022 06:27:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[04-Dec-2022 06:27:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[04-Dec-2022 06:27:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[04-Dec-2022 06:27:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[04-Dec-2022 06:27:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[04-Dec-2022 06:27:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[04-Dec-2022 06:27:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[04-Dec-2022 06:27:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[04-Dec-2022 06:27:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[04-Dec-2022 06:30:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[04-Dec-2022 06:30:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[04-Dec-2022 06:30:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[04-Dec-2022 06:30:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[04-Dec-2022 06:30:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[04-Dec-2022 06:30:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[04-Dec-2022 06:30:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[04-Dec-2022 06:30:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[04-Dec-2022 06:30:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[04-Dec-2022 06:31:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[04-Dec-2022 06:46:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[04-Dec-2022 06:46:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[04-Dec-2022 06:46:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[05-Dec-2022 05:21:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[05-Dec-2022 05:21:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[05-Dec-2022 05:21:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[05-Dec-2022 05:21:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[05-Dec-2022 05:21:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[05-Dec-2022 05:21:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[05-Dec-2022 05:21:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[05-Dec-2022 05:21:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[05-Dec-2022 05:21:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[05-Dec-2022 07:38:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[05-Dec-2022 07:38:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[05-Dec-2022 07:38:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[05-Dec-2022 07:38:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[05-Dec-2022 07:38:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[05-Dec-2022 07:38:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[05-Dec-2022 07:38:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[05-Dec-2022 07:38:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[05-Dec-2022 07:38:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[05-Dec-2022 09:33:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[05-Dec-2022 09:33:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[05-Dec-2022 09:34:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[05-Dec-2022 09:34:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[05-Dec-2022 09:34:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[05-Dec-2022 09:34:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 99
+[05-Dec-2022 09:34:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 344
+[05-Dec-2022 09:34:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 382
+[05-Dec-2022 09:34:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 400
+[05-Dec-2022 09:34:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 467
+[05-Dec-2022 09:35:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[05-Dec-2022 09:37:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[05-Dec-2022 09:37:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[05-Dec-2022 09:37:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[05-Dec-2022 09:45:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[06-Dec-2022 03:27:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[06-Dec-2022 03:28:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[06-Dec-2022 03:28:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[06-Dec-2022 03:30:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[06-Dec-2022 04:10:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[06-Dec-2022 04:10:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[06-Dec-2022 04:10:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 95
+[06-Dec-2022 04:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 329
+[06-Dec-2022 04:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 357
+[06-Dec-2022 04:10:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimport.php on line 375
+[06-Dec-2022 04:12:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[06-Dec-2022 06:26:46 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[06-Dec-2022 06:27:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[06-Dec-2022 09:06:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[06-Dec-2022 09:06:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[06-Dec-2022 09:06:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[06-Dec-2022 09:06:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[06-Dec-2022 09:06:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[06-Dec-2022 09:06:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[06-Dec-2022 09:06:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[06-Dec-2022 09:06:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[06-Dec-2022 09:06:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[06-Dec-2022 10:09:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[06-Dec-2022 10:09:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[06-Dec-2022 10:09:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[06-Dec-2022 10:09:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[06-Dec-2022 10:09:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[06-Dec-2022 10:09:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[06-Dec-2022 10:09:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[06-Dec-2022 10:09:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[06-Dec-2022 10:09:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[06-Dec-2022 10:21:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[06-Dec-2022 10:21:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[07-Dec-2022 06:28:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[07-Dec-2022 06:28:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[07-Dec-2022 06:28:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[07-Dec-2022 07:05:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[07-Dec-2022 07:05:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[07-Dec-2022 07:05:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[07-Dec-2022 08:12:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[07-Dec-2022 08:12:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[07-Dec-2022 08:12:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[07-Dec-2022 10:15:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[07-Dec-2022 10:15:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[07-Dec-2022 10:24:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[07-Dec-2022 10:24:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[08-Dec-2022 04:11:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[08-Dec-2022 04:11:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[08-Dec-2022 04:11:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[08-Dec-2022 06:18:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[08-Dec-2022 06:18:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[08-Dec-2022 06:18:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[08-Dec-2022 06:19:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/homelist.php on line 185
+[08-Dec-2022 06:19:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/homelist.php on line 191
+[08-Dec-2022 06:19:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/homelist.php on line 193
+[08-Dec-2022 06:19:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/homelist.php on line 195
+[08-Dec-2022 06:19:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/addFarmer.php on line 337
+[08-Dec-2022 06:19:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/addFarmer.php on line 375
+[08-Dec-2022 06:19:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/addFarmer.php on line 425
+[08-Dec-2022 06:19:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/addFarmer.php on line 475
+[08-Dec-2022 11:49:05 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/mastersAjax.php on line 523
+[08-Dec-2022 11:49:05 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/mastersAjax.php on line 546
+[08-Dec-2022 11:49:05 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/mastersAjax.php on line 572
+[08-Dec-2022 11:49:05 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/mastersAjax.php on line 599
+[08-Dec-2022 06:19:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/homelist.php on line 185
+[08-Dec-2022 06:19:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/homelist.php on line 191
+[08-Dec-2022 06:19:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/homelist.php on line 193
+[08-Dec-2022 06:19:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/homelist.php on line 195
+[08-Dec-2022 06:19:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/addFarmer.php on line 337
+[08-Dec-2022 06:19:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/addFarmer.php on line 375
+[08-Dec-2022 06:19:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/addFarmer.php on line 425
+[08-Dec-2022 06:19:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/addFarmer.php on line 475
+[08-Dec-2022 11:49:35 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/mastersAjax.php on line 523
+[08-Dec-2022 11:49:35 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/mastersAjax.php on line 546
+[08-Dec-2022 11:49:35 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/mastersAjax.php on line 572
+[08-Dec-2022 11:49:35 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/mastersAjax.php on line 599
+[09-Dec-2022 05:24:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[09-Dec-2022 05:25:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[09-Dec-2022 08:07:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[09-Dec-2022 08:07:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[09-Dec-2022 08:07:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[09-Dec-2022 08:08:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 07:50:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 07:51:46 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 07:52:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 07:52:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 07:53:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 07:54:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 08:20:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 08:25:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 08:33:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 08:35:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 08:36:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 08:36:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 08:37:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 08:45:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 08:50:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 09:02:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 09:27:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 09:27:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 09:37:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 09:40:46 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 09:41:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 09:42:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 09:48:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 09:49:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 09:53:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[10-Dec-2022 09:55:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[11-Dec-2022 10:49:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[11-Dec-2022 10:49:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[11-Dec-2022 10:49:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[11-Dec-2022 10:49:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[11-Dec-2022 10:49:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[11-Dec-2022 10:49:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[11-Dec-2022 10:49:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[11-Dec-2022 10:49:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[11-Dec-2022 10:49:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[12-Dec-2022 06:55:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[12-Dec-2022 06:55:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[12-Dec-2022 09:56:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[12-Dec-2022 09:56:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[12-Dec-2022 09:56:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[12-Dec-2022 09:56:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[12-Dec-2022 09:56:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[12-Dec-2022 09:56:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[12-Dec-2022 09:56:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[12-Dec-2022 09:56:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[12-Dec-2022 09:56:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[12-Dec-2022 11:05:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[12-Dec-2022 11:05:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[12-Dec-2022 11:05:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[12-Dec-2022 11:05:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[12-Dec-2022 11:05:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[12-Dec-2022 11:05:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[12-Dec-2022 11:05:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[12-Dec-2022 11:05:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[12-Dec-2022 11:05:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[14-Dec-2022 07:12:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[14-Dec-2022 07:12:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[14-Dec-2022 07:12:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[14-Dec-2022 08:01:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[14-Dec-2022 08:01:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[15-Dec-2022 05:20:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[15-Dec-2022 05:20:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[15-Dec-2022 05:20:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[15-Dec-2022 05:20:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[15-Dec-2022 05:20:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[15-Dec-2022 05:20:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[15-Dec-2022 05:20:36 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[15-Dec-2022 05:20:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[15-Dec-2022 05:20:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[15-Dec-2022 10:47:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[15-Dec-2022 10:47:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[15-Dec-2022 10:47:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[17-Dec-2022 05:25:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 05:28:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 05:28:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 05:36:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 08:06:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[17-Dec-2022 08:06:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[17-Dec-2022 08:06:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[17-Dec-2022 08:14:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 08:14:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 08:14:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 08:14:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 08:15:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 08:56:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 09:06:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[17-Dec-2022 09:06:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[17-Dec-2022 09:06:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[17-Dec-2022 09:06:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[17-Dec-2022 09:06:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[17-Dec-2022 09:06:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[17-Dec-2022 09:06:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[17-Dec-2022 09:06:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[17-Dec-2022 09:06:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[17-Dec-2022 09:08:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 09:30:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 09:32:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[17-Dec-2022 09:32:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[17-Dec-2022 09:32:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[17-Dec-2022 09:32:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[17-Dec-2022 09:32:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[17-Dec-2022 09:32:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[17-Dec-2022 09:32:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[17-Dec-2022 10:02:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 10:03:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 10:04:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 10:05:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 10:54:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[17-Dec-2022 10:54:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[17-Dec-2022 10:54:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 99
+[17-Dec-2022 10:54:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 344
+[17-Dec-2022 10:54:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 382
+[17-Dec-2022 10:54:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 400
+[17-Dec-2022 10:54:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/listagreement.php on line 467
+[17-Dec-2022 11:10:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 11:10:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[17-Dec-2022 11:11:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 05:47:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[18-Dec-2022 05:47:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[18-Dec-2022 05:47:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[18-Dec-2022 05:47:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[18-Dec-2022 05:47:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[18-Dec-2022 05:47:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[18-Dec-2022 05:47:19 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[18-Dec-2022 05:47:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[18-Dec-2022 05:47:19 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[18-Dec-2022 05:49:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 05:50:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:24:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:28:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:30:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:32:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:32:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:33:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:38:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:39:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:46:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:47:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:48:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:48:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:50:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:50:46 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:51:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:52:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:53:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:53:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:54:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:54:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:56:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:57:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 06:58:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:00:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:00:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:01:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:01:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:03:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:03:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:04:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:08:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:09:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:11:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:12:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[18-Dec-2022 07:12:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[19-Dec-2022 07:02:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[19-Dec-2022 07:02:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[19-Dec-2022 07:02:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[20-Dec-2022 06:35:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[20-Dec-2022 06:35:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[20-Dec-2022 06:35:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[20-Dec-2022 06:35:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[20-Dec-2022 06:35:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[20-Dec-2022 06:35:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[20-Dec-2022 06:35:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[20-Dec-2022 06:35:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[20-Dec-2022 06:35:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[20-Dec-2022 09:41:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[20-Dec-2022 09:41:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[20-Dec-2022 09:41:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[20-Dec-2022 09:41:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[20-Dec-2022 09:41:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[20-Dec-2022 09:41:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[20-Dec-2022 09:41:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[20-Dec-2022 10:43:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[20-Dec-2022 10:43:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[20-Dec-2022 10:43:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[20-Dec-2022 10:43:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[20-Dec-2022 10:43:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[20-Dec-2022 10:43:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[20-Dec-2022 10:43:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[21-Dec-2022 06:19:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[21-Dec-2022 06:19:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[21-Dec-2022 06:19:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[21-Dec-2022 06:21:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[21-Dec-2022 06:21:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[21-Dec-2022 06:32:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[21-Dec-2022 06:32:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[21-Dec-2022 06:32:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[21-Dec-2022 06:32:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[21-Dec-2022 06:32:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[21-Dec-2022 06:32:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[21-Dec-2022 06:32:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[21-Dec-2022 06:32:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[21-Dec-2022 06:32:11 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[21-Dec-2022 07:04:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[21-Dec-2022 07:04:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[21-Dec-2022 07:04:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[21-Dec-2022 07:04:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[21-Dec-2022 07:04:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[21-Dec-2022 07:04:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[21-Dec-2022 07:04:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[22-Dec-2022 06:38:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[22-Dec-2022 06:38:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[22-Dec-2022 06:46:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[22-Dec-2022 07:45:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[22-Dec-2022 07:45:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[22-Dec-2022 07:45:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[22-Dec-2022 07:45:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[22-Dec-2022 07:45:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[22-Dec-2022 07:45:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[22-Dec-2022 07:45:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[22-Dec-2022 07:45:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[22-Dec-2022 07:45:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[22-Dec-2022 07:45:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[22-Dec-2022 07:45:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[22-Dec-2022 07:45:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[22-Dec-2022 07:45:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[22-Dec-2022 07:45:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[23-Dec-2022 08:39:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[23-Dec-2022 08:39:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[23-Dec-2022 08:39:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[23-Dec-2022 09:29:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[23-Dec-2022 09:29:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[23-Dec-2022 09:29:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[23-Dec-2022 09:29:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[23-Dec-2022 09:29:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[23-Dec-2022 09:29:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[23-Dec-2022 09:29:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[26-Dec-2022 06:37:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[26-Dec-2022 06:37:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[26-Dec-2022 06:37:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[26-Dec-2022 06:37:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[26-Dec-2022 06:37:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[26-Dec-2022 06:37:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[26-Dec-2022 06:37:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[26-Dec-2022 06:37:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[26-Dec-2022 06:37:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[26-Dec-2022 06:37:46 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[27-Dec-2022 05:52:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[27-Dec-2022 05:52:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[27-Dec-2022 05:52:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[27-Dec-2022 08:29:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[27-Dec-2022 08:29:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[27-Dec-2022 08:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 536
+[27-Dec-2022 08:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 562
+[27-Dec-2022 08:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 588
+[27-Dec-2022 08:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 614
+[27-Dec-2022 08:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/agrreport.php on line 736
+[27-Dec-2022 11:41:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[27-Dec-2022 11:41:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[27-Dec-2022 11:41:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[27-Dec-2022 11:41:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[27-Dec-2022 11:41:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[27-Dec-2022 11:41:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[27-Dec-2022 11:41:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[27-Dec-2022 11:41:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[27-Dec-2022 11:41:09 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
+[28-Dec-2022 12:05:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[29-Dec-2022 05:36:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[29-Dec-2022 05:36:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[29-Dec-2022 05:36:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[30-Dec-2022 11:56:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[30-Dec-2022 11:56:58 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[30-Dec-2022 11:56:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[31-Dec-2022 08:37:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[31-Dec-2022 08:37:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[31-Dec-2022 08:37:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[31-Dec-2022 08:58:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[31-Dec-2022 08:58:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[31-Dec-2022 08:58:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/village.php on line 99
+[31-Dec-2022 08:59:20 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[31-Dec-2022 09:05:37 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[31-Dec-2022 09:08:47 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/exportimportAjax.php on line 443
+[02-Jan-2023 04:48:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 579
+[02-Jan-2023 04:48:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/sidemenu.php on line 633
+[02-Jan-2023 04:48:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 10
+[02-Jan-2023 04:48:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 18
+[02-Jan-2023 04:48:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 26
+[02-Jan-2023 04:48:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 33
+[02-Jan-2023 04:48:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 47
+[02-Jan-2023 04:48:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 75
+[02-Jan-2023 04:48:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/t0gakal41dca/public_html/vegc.vnragri.co.in/home.php on line 76
